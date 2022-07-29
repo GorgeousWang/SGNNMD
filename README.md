@@ -1,3 +1,5 @@
+# fork notes
+The datasets were derived from the following sources in the public domain, the miRNA-disease association from https://www.cuilab.cn/hmdd, the disease MeSH descriptors from https://meshb.nlm.nih.gov/ and the gene functional interaction network is downloaded from https://www.inetbio.org/humannet/download.php. 
 # SGNNMD
 SGNNMD: Signed Graph Neural Network for Predicting Deregulation Types of MiRNA-disease Associations
 ## Run
