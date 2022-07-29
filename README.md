@@ -1,5 +1,8 @@
 # fork notes
 The datasets were derived from the following sources in the public domain, the miRNA-disease association from https://www.cuilab.cn/hmdd, the disease MeSH descriptors from https://meshb.nlm.nih.gov/ and the gene functional interaction network is downloaded from https://www.inetbio.org/humannet/download.php. 
+
+At last, we construct the benchmark dataset with 4264 miRNA- disease associations between 348 miRNAs and 210 diseases, including 2284 up-regulation and 1980 down- regulation associations.
+
 # SGNNMD
 SGNNMD: Signed Graph Neural Network for Predicting Deregulation Types of MiRNA-disease Associations
 ## Run
